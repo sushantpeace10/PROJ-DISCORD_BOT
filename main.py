@@ -13,7 +13,7 @@ bot = commands.Bot(command_prefix = '.mc ')
 @bot.event
 async def on_ready():
     print(f'{bot.user.name} has connected to Discord')
-    await bot.change_presence(activity=discord.Streaming(name='कार्टून', url='https://www.twitch.tv/cartoooncartoon'))
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name='commands starting with: .mc'))
 
 @bot.command()
 async def load(ctx, extension):

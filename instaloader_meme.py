@@ -36,4 +36,9 @@ def get_explore():
 def del_memes(meme_name):
   def_file = meme_name
   os.remove(f"instagram_meme/{def_file}")
+
+def reset_memes():
+  for filename in os.listdir('instagram_meme/'):
+    file_name = filename
+    os.remove(f"instagram_meme/{file_name}")
   
