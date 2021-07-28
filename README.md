@@ -1,5 +1,5 @@
 # MACHO BOT
-## A simmple Discord BOT
+## A simple Discord BOT
 
 A discord bot that fetches meme form explore feed from an exsisting instagram account.
 
