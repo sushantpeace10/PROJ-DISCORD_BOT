@@ -5,6 +5,7 @@ from discord.ext import commands
 from keep_alive import keep_alive
 
 
+
 load_dotenv()
 TOKEN = os.environ['DISCORD_TOKEN']
 
