@@ -74,14 +74,14 @@
     "Week": "1",
     "Day": "Tuesday",
     "Time": "Snacks",
-    "Menu": "Bhell Puri, Tea/Coffee"
+    "Menu": "Pav Bhaji, Tea/Coffee"
   },
   {
     "Id": "12",
     "Week": "1",
     "Day": "Tuesday",
     "Time": "Dinner",
-    "Menu": "Salad, Fulka, Aloo Channa, Puliyogare, Pickle, Rice, Sambar"
+    "Menu": "Salad, Fulka, Aloo Mutter, Puliyogare, Pickle, Rice, Sambar"
   },
   {
     "Id": "13",
@@ -137,21 +137,21 @@
     "Week": "1",
     "Day": "Thursday",
     "Time": "Dinner",
-    "Menu": "Rice, Sambar, Chole Bhature, Sweet Lassi, Pickle"
+    "Menu": "Rice, Sambar, Fulka, Bindi Masala, Dal Fry, Curd, Pickle"
   },
   {
     "Id": "21",
     "Week": "1",
     "Day": "Friday",
     "Time": "Breakfast",
-    "Menu": "Pav Bhaji, Rice Bath, Chutney, Tea/Coffee/Milk"
+    "Menu": "Rava Idli, Sagu, Chutney, Tea/Coffee/Milk"
   },
   {
     "Id": "22",
     "Week": "1",
     "Day": "Friday",
     "Time": "Lunch",
-    "Menu": "Rice, Sambar, Lemon Rice, Chapathi, Rajma masala, Butter Milk, Pickle"
+    "Menu": "Rice, Sambar, Pudina Rice, Rajma Masala, Chapathi, Pickle"
   },
   {
     "Id": "23",
@@ -165,7 +165,7 @@
     "Week": "1",
     "Day": "Friday",
     "Time": "Dinner",
-    "Menu": "Rice, Rasam, Fulka, Palak Paneer, Jeera Rice, Curd, Pickle"
+    "Menu": "Rice, Rasam, Fulka, Palak Paneer, Baby Corn Fried Rice, Curd, Pickle"
   },
   {
     "Id": "25",
@@ -179,7 +179,7 @@
     "Week": "1",
     "Day": "Saturday",
     "Time": "Lunch",
-    "Menu": "Rice, Sambar, Pudina Rice, Roti, Veg Kurma, Pickle"
+    "Menu": "Rice, Sambar, Lemon Rice, Roti, Veg Kurma, Pickle"
   },
   {
     "Id": "27",
@@ -193,7 +193,7 @@
     "Week": "1",
     "Day": "Saturday",
     "Time": "Dinner",
-    "Menu": "Rice, Dal, Rasam, Aloo Paratha, Curd, Pickle"
+    "Menu": "Rice, Dal, Rasam, Fulka, Aloo Soya Been, Curd, Pickle"
   },
   {
     "Id": "29",
@@ -207,7 +207,7 @@
     "Week": "2",
     "Day": "Sunday",
     "Time": "Lunch",
-    "Menu": "Aloo Parmal, Fulka, Dum, Jeera Rice, Ghiya Dal, Rice, Samber, Papad, Pickle, Butter Milk"
+    "Menu": "Chole Bature, Rice, Samber, Pickle, Butter Milk"
   },
   {
     "Id": "31",
@@ -263,21 +263,21 @@
     "Week": "2",
     "Day": "Tuesday",
     "Time": "Lunch",
-    "Menu": "Makai Nisha, Chapathi, Green Sambar, Ghee Rice, Butter Milk, Pickle"
+    "Menu": "Makai Nisha, Chapathi, Green Sambar, Ghee Rice, Pickle"
   },
   {
     "Id": "39",
     "Week": "2",
     "Day": "Tuesday",
     "Time": "Snacks",
-    "Menu": "Rusk, Tea/Coffee"
+    "Menu": "Veg Maggi, Tea/Coffee"
   },
   {
     "Id": "40",
     "Week": "2",
     "Day": "Tuesday",
     "Time": "Dinner",
-    "Menu": "Fulka, Veg Kurma, Veg Fried Rice, Rice, Rasam, Curd, Papad, Pickle"
+    "Menu": "Fulka, Veg Kurma, Dam Rice Kashmiri, Rice, Rasam, Curd"
   },
   {
     "Id": "41",
@@ -298,21 +298,21 @@
     "Week": "2",
     "Day": "Wednesday",
     "Time": "Snacks",
-    "Menu": "Mixture, Tea/Coffee"
+    "Menu": "Mirchi Bhajji Tea/Coffee"
   },
   {
     "Id": "44",
     "Week": "2",
     "Day": "Wednesday",
     "Time": "Dinner",
-    "Menu": "Fulka, Egg Curry, Panner Curry, Rice, Rasam, Pickle"
+    "Menu": "Fulka, Egg Fried Rice, Veg Fried Rice, Paneer, Rasam, Pickle"
   },
   {
     "Id": "45",
     "Week": "2",
     "Day": "Thursday",
     "Time": "Breakfast",
-    "Menu": "Pav Bhaji, Rice Bath, Chutney, Tea/Coffee/Milk"
+    "Menu": "Veg Roll, Rice Bath, Chutney, Tea/Coffee/Milk"
   },
   {
     "Id": "46",
@@ -326,14 +326,14 @@
     "Week": "2",
     "Day": "Thursday",
     "Time": "Snacks",
-    "Menu": "Bread Jam, Tea/Coffee"
+    "Menu": "Rusk, Tea/Coffee"
   },
   {
     "Id": "48",
     "Week": "2",
     "Day": "Thursday",
     "Time": "Dinner",
-    "Menu": "Rice, Sambar, Chole Bhature, Juice, Pickle"
+    "Menu": "Chapati, Chana Masala, Dall, Rice, Rasam, Curd, Juice, Pickle"
   },
   {
     "Id": "49",
@@ -368,7 +368,7 @@
     "Week": "2",
     "Day": "Saturday",
     "Time": "Breakfast",
-    "Menu": "Idly-Vada, Samber, Chatney, Tea/Coffee/Milk"
+    "Menu": "Pav Bhaji, Rice Bath, Chatney, Tea/Coffee/Milk"
   },
   {
     "Id": "54",
@@ -389,7 +389,7 @@
     "Week": "2",
     "Day": "Saturday",
     "Time": "Dinner",
-    "Menu": "Palak Puri, Chana Masala, Jeera Rice, Curd, Sweet, Pickle"
+    "Menu": "Chapati, Malai Kofta, Jeeera Rice, Curd, Sweet, Pickle, Fruit Salad"
   },
   {
     "Id": "57",
@@ -445,7 +445,7 @@
     "Week": "3",
     "Day": "Monday",
     "Time": "Dinner",
-    "Menu": "Butter Fulka, Veg Kadai, Dal Tadka, Rice, Rasam, Curd, Pickle"
+    "Menu": "Butter Fulka, Veg Kurma, Dal Tadka, Rice, Rasam, Curd, Pickle"
   },
   {
     "Id": "65",
@@ -466,14 +466,14 @@
     "Week": "3",
     "Day": "Tuesday",
     "Time": "Snacks",
-    "Menu": "Bhell Puri, Tea/Coffee"
+    "Menu": "Pasta, Tea/Coffee"
   },
   {
     "Id": "68",
     "Week": "3",
     "Day": "Tuesday",
     "Time": "Dinner",
-    "Menu": "Dal Makhani, Plain Paratha, Veg Fried Rice, Rice, Rasam, Curd, Pickle"
+    "Menu": "Chapati, Soya Been Masala, Veg Fried Rice, Rice, Rasam, Curd, Pickle"
   },
   {
     "Id": "69",
@@ -494,7 +494,7 @@
     "Week": "3",
     "Day": "Wednesday",
     "Time": "Snacks",
-    "Menu": "Bread Jam, Tea/Coffee"
+    "Menu": "Mirchi Bhaji, Tea/Coffee"
   },
   {
     "Id": "72",
@@ -536,14 +536,14 @@
     "Week": "3",
     "Day": "Friday",
     "Time": "Breakfast",
-    "Menu": "Chole BHature, Tea/Milk/Coffee"
+    "Menu": "Onion/Set Dosa, Sagu, Chutney, Tea/Milk/Coffee"
   },
   {
     "Id": "78",
     "Week": "3",
     "Day": "Friday",
     "Time": "Lunch",
-    "Menu": "Rajma Masala, Chapathi, Dum Rice, Raita, Rice, Rasam, Pickle"
+    "Menu": "Veg Curry, Chapathi, Dum Rice, Raita, Rice, Rasam, Pickle"
   },
   {
     "Id": "79",
@@ -564,35 +564,35 @@
     "Week": "3",
     "Day": "Saturday",
     "Time": "Breakfast",
-    "Menu": "Set Dosa, Sagu, Chutney, Tea, Coffes, Milk"
+    "Menu": "Chole Bhature, Tea, Coffes, Milk"
   },
   {
     "Id": "82",
     "Week": "3",
     "Day": "Saturday",
     "Time": "Lunch",
-    "Menu": "Puliogere, Aloo Bhindi Dry, Fulka, Dall Mughlai, Rice, Samber, Pickle"
+    "Menu": "Puliogere, Aloo Bhindi Dry, Fulka, Dall Mughlai, Rice, Rasam, Pickle"
   },
   {
     "Id": "83",
     "Week": "3",
     "Day": "Saturday",
     "Time": "Snacks",
-    "Menu": "Biscuits, Tea/Coffee"
+    "Menu": "Rusk, Tea/Coffee"
   },
   {
     "Id": "84",
     "Week": "3",
     "Day": "Saturday",
     "Time": "Dinner",
-    "Menu": "Rice, Sambar, Aloo Paratha, Curd, Sweet, Pickle"
+    "Menu": "Veg Manchurian, Rice, Veg Noodles, Roti, Dal, Kheer, Pickle"
   },
   {
     "Id": "85",
     "Week": "4",
     "Day": "Sunday",
     "Time": "Breakfast",
-    "Menu": "Idly-Vada, Samber, Chatney, Tea/Coffee/Milk"
+    "Menu": "Masala Dosa, Samber, Chatney, Tea/Coffee/Milk"
   },
   {
     "Id": "86",
@@ -641,14 +641,14 @@
     "Week": "4",
     "Day": "Monday",
     "Time": "Dinner",
-    "Menu": "Makai Nisha, Fulka, Fried Rice, Rice, Jucie, Pickle"
+    "Menu": "Veg Khofta, Fulka, Fried Rice, Rice, Jucie, Pickle"
   },
   {
     "Id": "93",
     "Week": "4",
     "Day": "Tuesday",
     "Time": "Breakfast",
-    "Menu": "Plain Dosa, Sambar, Chatney, Tea/Coffee/Milk"
+    "Menu": "Idli-Vada, Sambar, Chatney, Tea/Coffee/Milk"
   },
   {
     "Id": "94",
@@ -697,14 +697,14 @@
     "Week": "4",
     "Day": "Wednesday",
     "Time": "Dinner",
-    "Menu": "Fulka, Egg Curry, Panner Curry, Rice, Rasam, Pickle"
+    "Menu": "Fulka, Egg Rice, Baby Corn Rice, Panner Curry, Rice, Rasam, Pickle"
   },
   {
     "Id": "101",
     "Week": "4",
     "Day": "Thursday",
     "Time": "Breakfast",
-    "Menu": "Pav Bhaji, Pullyogare, Tea/Coffee/Milk"
+    "Menu": "Rava-Idli, Sagu, Chutney, Tea/Coffee/Milk"
   },
   {
     "Id": "102",
@@ -739,7 +739,7 @@
     "Week": "4",
     "Day": "Friday",
     "Time": "Lunch",
-    "Menu": "Chana Masala, Chapathi, Palak Rice, Moong Dall, Samber, Rice, Butter Milk, Pickle"
+    "Menu": "Aloo Gobi Masala, Chapathi, Palak Rice, Moong Dall, Moong Dal, Samber, Rice, Butter Milk, Pickle"
   },
   {
     "Id": "107",
@@ -774,7 +774,7 @@
     "Week": "4",
     "Day": "Saturday",
     "Time": "Snacks",
-    "Menu": "Biscuits, Tea/Coffee"
+    "Menu": "Pani Puri, Tea/Coffee"
   },
   {
     "Id": "112",

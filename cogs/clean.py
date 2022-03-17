@@ -18,7 +18,7 @@ class Clean(commands.Cog):
                 title="Alert!",
                 colour=0xFF0000,
                 description=
-                f"{ctx.message.author.mention} चुतिये, `.mc clear` command don't work in {ctx.message.channel.mention}, use `.mc clean <value>` instead.\n> Where <value> is number of messages to be deleted.",
+                f"{ctx.message.author.mention}, `.mc clear` command don't work in {ctx.message.channel.mention}, use `.mc clean <value>` instead.\n> Where <value> is number of messages to be deleted.",
             )
             await ctx.channel.send(embed=msg)
 
@@ -41,7 +41,7 @@ class Clean(commands.Cog):
                 title="Alert!",
                 colour=0xFF0000,
                 description=
-                f"{ctx.message.author.mention} लौड़े, `value` tera BAAP akke type karega!\n  Use `.mc clean <value>`.\n> Where <value> is number of messages to be deleted.",
+                f"{ctx.message.author.mention}, `value` tera BAAP akke type karega!\n  Use `.mc clean <value>`.\n> Where <value> is number of messages to be deleted.",
             )
             await ctx.channel.send(embed=msg)
 

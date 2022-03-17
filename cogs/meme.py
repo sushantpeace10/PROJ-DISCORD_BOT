@@ -32,7 +32,7 @@ class Meme(commands.Cog):
                 title="Alert!",
                 colour=0x2EFF2E,
                 description=
-                f"All saved memes are now deleted. use `.mc meme` to get fresh set of memes."
+                f"All saved memes are now deleted. use `.mc meme` to get fresh set of memes. {len(ctx.guilds)} "
             )
             await ctx.channel.send(embed=msg)
         else:

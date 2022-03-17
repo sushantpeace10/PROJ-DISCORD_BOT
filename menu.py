@@ -15,7 +15,7 @@ def get_menu():
         datetime.combine(today, time(16, 15, 0)),
         datetime.combine(today, time(18, 30, 0))
     ]
-    reference_date = date(2021, 8, 22)
+    reference_date = date(2022, 2, 27)
     reference_Id = 1
 
     check_first_date = str(today - reference_date)
